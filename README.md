@@ -17,11 +17,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Soy un eterno aprendiz, me gusta explorar nuevas tecnologías y ser mejor cada día.
+- Actualmente estoy haciendo un bootcamp de Full Stack Ruby on Rails, pero tranquilos aun creo que soy un programador jr.
+- Soy una persona algo esceptica, sin embargo eso me ayuda a no casarme con ninguna tecnología en particular.
+- Mi web personal [link](https://www.sispro.cl)
+- Estoy buscando nuevos desafíos de forma freelance y hacerme conocido [my resume](https://read.cv/)
 
 <br><br>
 
