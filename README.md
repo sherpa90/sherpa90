@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hola , Mi nombre es Marco Rosas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -17,9 +17,13 @@
 
 <br>
 
+- Soy un Ingeniero en Informática, con conocimientos en ciberseguridad y también algo de electrónica.
+- Soy de Puerto Montt Chile.
 - Soy un eterno aprendiz, me gusta explorar nuevas tecnologías y ser mejor cada día.
+- Trabajo en una institución educacional como Ingeniero de Sistemas.
 - Actualmente estoy haciendo un bootcamp de Full Stack Ruby on Rails, pero tranquilos aun creo que soy un programador jr.
 - Soy una persona algo esceptica, sin embargo eso me ayuda a no casarme con ninguna tecnología en particular.
+- Si necesitas confiar tu proyecto en alguien profesional y apasionado en lo que hace, yo te puedo ayudar.
 - Mi web personal [link](https://www.sispro.cl)
 - Estoy buscando nuevos desafíos de forma freelance y hacerme conocido [my resume](https://read.cv/)
 
